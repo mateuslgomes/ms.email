@@ -10,7 +10,7 @@ POST - /sending-email
 }
     "ownerRef":"Proprietário",
     "emailFrom": "seu@email.com",
-    "emailTo" : "destinatário@mail.com",
+    "emailTo" : "destinatário@email.com",
     "subject": "Assunto",
     "text": "Mensagem"
 }
